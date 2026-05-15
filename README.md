@@ -7,6 +7,20 @@ A 2D action RPG built with **C++ and SFML**, where players collect, train, and b
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## 📸 Screenshots
+
+| Main Menu | Arena Mode Selection |
+|:---------:|:--------------------:|
+| ![Main Menu](assets/screenshots/Menu.png) | ![Arena Mode Selection](assets/screenshots/Arena_mode_selection.png) |
+
+| Pet Selection | Gameplay |
+|:-------------:|:--------:|
+| ![Pet Selection](assets/screenshots/Pet_selection.png) | ![Gameplay](assets/screenshots/Gameplay.png) |
+
+| Player Input | |
+|:------------:|:-:|
+| ![Player Input](assets/screenshots/player%20input.png) | |
+
 ## 🎮 Features
 
 ### 🐉 4 Unique Magical Pets
@@ -99,7 +113,7 @@ MagicalKingdom/
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MagicalKingdom.git
+   git clone https://github.com/Bilalmughal-07/MagicalPetKingdom.git
    ```
 2. Open `MagicalKingdom.sln` in Visual Studio
 3. Set SFML paths in Project Properties:
