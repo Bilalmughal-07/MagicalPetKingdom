@@ -1,0 +1,27 @@
+# Build output
+x64/
+Debug/
+Release/
+
+# Visual Studio temp files
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.tlog
+*.log
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.exe
+*.idb
+*.ipch
+
+# Save files (generated at runtime)
+savegame.txt
+leaderboard.txt
