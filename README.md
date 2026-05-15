@@ -9,18 +9,38 @@ A 2D action RPG built with **C++ and SFML**, where players collect, train, and b
 
 ## 📸 Screenshots
 
-| Main Menu | Arena Mode Selection |
-|:---------:|:--------------------:|
-| ![Main Menu](assets/screenshots/Menu.png) | ![Arena Mode Selection](assets/screenshots/Arena_mode_selection.png) |
+<table align="center">
+<tr>
+<td align="center">
+<b>Main Menu</b><br><br>
+<img src="https://github.com/user-attachments/assets/42650fc2-0e6d-4603-80f3-c62328a1babc" width="400"/>
+</td>
 
-| Pet Selection | Gameplay |
-|:-------------:|:--------:|
-| ![Pet Selection](assets/screenshots/Pet_selection.png) | ![Gameplay](assets/screenshots/Gameplay.png) |
+<td align="center">
+<b>Arena Mode Selection</b><br><br>
+<img src="https://github.com/user-attachments/assets/a8cf60be-6826-4e56-9422-78214ef0c81c" width="400"/>
+</td>
+</tr>
 
-| Player Input | |
-|:------------:|:-:|
-| ![Player Input](assets/screenshots/player%20input.png) | |
+<tr>
+<td align="center">
+<b>Pet Selection</b><br><br>
+<img src="https://github.com/user-attachments/assets/bb1b3ca9-eb4c-45f1-8f75-3ea249508be6" width="400"/>
+</td>
 
+<td align="center">
+<b>Gameplay</b><br><br>
+<img src="https://github.com/user-attachments/assets/d7fbc1fa-ad1a-426f-8d96-5416a5b185d7" width="400"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Player Input</b><br><br>
+<img src="https://github.com/user-attachments/assets/14f3e09b-bf7c-4c2d-84be-4cfee3a4623c" width="400"/>
+</td>
+</tr>
+</table>
 ## 🎮 Features
 
 ### 🐉 4 Unique Magical Pets
