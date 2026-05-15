@@ -9,6 +9,7 @@ A 2D action RPG built with **C++ and SFML**, where players collect, train, and b
 
 ## 📸 Screenshots
 
+
 <table align="center">
 <tr>
 <td align="center">
@@ -37,9 +38,10 @@ A 2D action RPG built with **C++ and SFML**, where players collect, train, and b
 <tr>
 <td align="center">
 <b>Player Input</b><br><br>
-<img src="https://github.com/user-attachments/assets/14f3e09b-bf7c-4c2d-84be-4cfee3a4623c" width="400"/>
+<img src="https://github.com/user-attachments/assets/6bc03517-7fb7-4d12-b9a7-d8836848bbf8" width="400"/>
 </td>
 </tr>
+</table>
 </table>
 ## 🎮 Features
 
